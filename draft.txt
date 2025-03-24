@@ -1,0 +1,7 @@
+Using device: cpu
+Dataset size: 2787 images
+Sample image shape: torch.Size([3, 224, 224])
+Sample target boxes: torch.Size([0, 4])
+Sample target labels: torch.Size([0])
+Feature map dimensions: 7x7x512
+Flattened feature size: 25088
